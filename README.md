@@ -1,1 +1,1 @@
-# Spring-hibernate
+# Spring-hibernate-template
